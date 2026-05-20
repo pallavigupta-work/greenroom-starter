@@ -6,7 +6,7 @@ Applied AI PM submission. Six surfaces of settlement; I picked **deal modeling**
 
 ---
 
-## The 10-minute read
+## Details
 
 1. **PRD memo** — `Pallavi's/prd_memo.md` (the slice, design choices, trade-offs, what I cut)
 2. **Prototype** — run locally, see below
